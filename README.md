@@ -21,8 +21,8 @@ Works as of: 3/26/2022
 ## Server Routes
 
 1. http://localhost:3000/--url short code--
-   a. Redirects user to URL based on short code
+   - a. Redirects user to URL based on short code
 
 2. http://localhost:3000/api/shorten
-   a. Accepts json body -> { "longUrl":"https:google.com" }
-   b. Creates short code, saves to MongoDB, and responds with json formatted data to include short code
+   - a. Accepts json body -> { "longUrl":"https:google.com" }
+   - b. Creates short code, saves to MongoDB, and responds with json formatted data to include short code
