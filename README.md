@@ -20,7 +20,7 @@ Works as of: 3/26/2022
 
 ## Server Routes
 
-1. [http://localhost:3000/--url short code--]
+1. http://localhost:3000/your-url-short-code-here
    - a. Redirects user to URL based on short code
 
 2. http://localhost:3000/api/shorten
