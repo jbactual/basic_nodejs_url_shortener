@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/shorturls?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:3000"
+}
