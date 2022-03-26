@@ -24,5 +24,5 @@ Works as of: 3/26/2022
    - a. Redirects user to URL based on short code
 
 2. POST Request -> http://localhost:3000/api/shorten
-   - a. Accepts json body -> { "longUrl":"https//:google.com" }
+   - a. Accepts json body -> { "longUrl":"https://google.com" }
    - b. Creates short code, saves to MongoDB, and responds with json formatted data to include short code
